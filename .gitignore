@@ -1,0 +1,45 @@
+# Maven build outputs
+target/
+**/target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# Tooling binaries
+.tools/
+
+# Logs
+*.log
+logs/
+
+# IDE / Editor metadata
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# OS specific
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# MoveInSync Case Studies & Private Files
+SDE Case studies/
+*.jpeg
+*.jpg
+*.png
+hr-roster-sync-project-document.md
+DEMO_VIDEO_SCRIPT.md
+DEMO_VIDEO_SCRIPT.html
+DEMO_VIDEO_SCRIPT.pdf
+docs/
+MoveInSync_HR_Roster_Sync.postman_collection.json
+
