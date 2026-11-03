@@ -36,6 +36,7 @@ SDE Case studies/
 *.jpeg
 *.jpg
 *.png
+assets/
 hr-roster-sync-project-document.md
 DEMO_VIDEO_SCRIPT.md
 DEMO_VIDEO_SCRIPT.html
